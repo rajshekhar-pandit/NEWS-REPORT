@@ -3,8 +3,15 @@
 # 📰 NewsHub - Professional News Feed Application
 
 ![NewsHub Logo](https://img.shields.io/badge/📰_NewsHub-Live_News_Feed-4A90E2?style=for-the-badge&labelColor=1a1a2e)
+<img width="1819" height="906" alt="image" src="https://github.com/user-attachments/assets/b84df049-b284-4de8-b826-2080c3ed88aa" />
+
+
+
 
 ### Stay Updated, Stay Informed 🌍
+
+<img width="1635" height="932" alt="image" src="https://github.com/user-attachments/assets/5ffb5394-e04e-42bb-83b3-5adf8c286031" />
+
 
 [![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
